@@ -1,10 +1,11 @@
+import java.text.ParseException;
+
 public class Main {
 
-    public static void main(String[] args){
+    public static void main(String[] args) throws ParseException {
 
-        for(String s : args){
-            System.out.println(s);
-        }
+//        FacultyService facultyService = new FacultyService();
+//        facultyService.addSubject();
 
     }
 }
